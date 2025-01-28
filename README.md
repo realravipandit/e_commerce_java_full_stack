@@ -19,7 +19,7 @@ This project is a full-stack e-commerce web application developed using Spring B
   <li>Run the backend using the maven terminal</li>
 <code> ./mvnw spring-boot:run</code> 
 <center> or</center>
-<p>click on run button by navigating the springboot application java file available at <code>./src/main/java/com.ecommerce.backend/backendApplication</code></p>
+<p>click on run button by navigating the springboot application java file available at <code>./src/main/java/com/ecommerce/backendspring/BackendSpringApplication.java</code></p>
 <li>API will availble at <code>http://localhost:8080</code></li>
 </ol>
 
